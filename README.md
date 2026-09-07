@@ -72,9 +72,7 @@ typical year (HDD18 2,226 against 2,648), so the earlier pairing introduced a
 systematic mismatch that the optimizer absorbed into envelope parameters.
 
 A new node builds an AMY EPW file automatically from the NOAA Integrated
-Surface Database for the station nearest the site, using the typical-year file
-as a template for the solar components that the hourly surface record does not
-carry. The node reports data completeness, degree-day comparison, and the
+Surface Database for the station nearest the site. The node reports data completeness, degree-day comparison, and the
 source of every substituted value.
 
 ```
