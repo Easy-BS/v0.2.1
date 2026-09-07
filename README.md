@@ -16,7 +16,7 @@ structure type and construction era.
 
 ---
 <p align="center">
-  <img src="docs/Figure_6.svg" width="400">
+  <img src="docs/Figure_6.svg" width="700">
 </p>
 
 ## What this release changes
