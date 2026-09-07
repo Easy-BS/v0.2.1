@@ -15,6 +15,9 @@ structure type and construction era.
 ![license](https://img.shields.io/badge/license-MIT-lightgrey)
 
 ---
+<p align="center">
+  <img src="docs/Fig1.svg" width="400">
+</p>
 
 ## What this release changes
 
